@@ -1,0 +1,3 @@
+This repository contains the analysis reported in a Letter to the Editor regarding the following article in JAMA Internal Medicine:
+
+Spyropoulos AC, Goldin M, Giannis D, Diab W. Efficacy and Safety of Therapeutic-Dose Heparin vs Standard Prophylactic or Intermediate-Dose Heparins for Thromboprophylaxis in High-risk Hospitalized Patients With COVID-19: The HEP-COVID Randomized Clinical Trial. Published online 2021:9. doi:10.1001/jamainternmed.2021.6203
